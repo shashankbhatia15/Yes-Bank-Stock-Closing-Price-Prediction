@@ -14,6 +14,7 @@ In the next step, I split the data into train and test data set and ran the foll
 3.	Ridge regression
 4.	KNN
 5.	XGBoost
+
 I also saved all the evaluation metrics in a data frame.
 
 In the end, I compared all the metrics and came to the following conclusions-
