@@ -24,6 +24,3 @@ In the end, I compared all the metrics and came to the following conclusions-
 3. Ridge regression shrunk the parameters to reduce complexity and multicollinearity, but ended up   affecting the evaluation metrics.
 4. Lasso regression did feature selection and ended up giving up worse results than ridge which again reflects the fact that each feature is important (as previously discussed).
 5. KNN AND XGBoost have given similar results.
-
-
-All the evaluation scores were close because the data set was quite small, things would have been much more clear with more data.
